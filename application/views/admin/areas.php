@@ -19,6 +19,7 @@
             rownumbers="true" fitColumns="true" singleSelect="true">
         <thead>
             <tr>
+                
                 <th field="idd" width="50">ID</th>
                 <th field="descripcion" width="50">Descripcion</th>
             </tr>
