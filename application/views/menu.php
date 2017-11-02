@@ -221,7 +221,7 @@
 	    		<ul class="sub_menu">
 	    			<li><a href="#">CRUD Usuarios</a></li>
 					<li><a href="OrigenDestino">CRUD Origen Y Destino</a></li>
-					<li><a href="RegCliente">Clientes</a></li>
+					<li><a href="RegCliente">CRUD Clientes</a></li>
 	    		</ul>
 	    	</li>
 			<li class="drop"><a href="#">Super Usuario</a>
