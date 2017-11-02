@@ -19,7 +19,6 @@
             rownumbers="true" fitColumns="true" singleSelect="true">
         <thead>
             <tr>
-
                 <th field="idd" width="50">ID</th>
                 <th field="descripcion" width="50">Descripcion</th>
             </tr>
@@ -125,7 +124,7 @@
           });
     }
     </script>
-    <style type="text/css"></style<BR>
+    <style type="text/css">
     
         #fm{
             margin:0;
